@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar:///opt/git/phoenix/phoenixApp/xnetApiWebApp/WEB-INF/lib/XnetApi-1.0.6.jar!/" />
+      <root url="jar:///opt/git/phoenix/phoenixApp/xnetApiWebApp/WEB-INF/lib/XnetApiImpl-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

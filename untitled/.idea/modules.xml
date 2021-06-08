@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///opt/git/phoenix/test/Features/Features.iml" filepath="/opt/git/phoenix/test/Features/Features.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/angular-page-objects/angular-page-objects.iml" filepath="/opt/git/phoenix/test/functional-testing/angular-page-objects/angular-page-objects.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/bex-step-defs/bex-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/bex-step-defs/bex-step-defs.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/common/common.iml" filepath="/opt/git/phoenix/test/functional-testing/common/common.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/distributed-opaque-step-defs/distributed-opaque-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/distributed-opaque-step-defs/distributed-opaque-step-defs.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/hotel-supply-step-defs/hotel-supply-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/hotel-supply-step-defs/hotel-supply-step-defs.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/hotwire-step-defs/hotwire-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/hotwire-step-defs/hotwire-step-defs.iml" />
+      <module fileurl="file:///opt/git/phoenix/jenkins/jenkins.iml" filepath="/opt/git/phoenix/jenkins/jenkins.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/mail-step-defs/mail-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/mail-step-defs/mail-step-defs.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/mail-support/mail-support.iml" filepath="/opt/git/phoenix/test/functional-testing/mail-support/mail-support.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/c3-page-objects/src/main/main.iml" filepath="/opt/git/phoenix/test/functional-testing/c3-page-objects/src/main/main.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/database-support/src/main/main1.iml" filepath="/opt/git/phoenix/test/functional-testing/database-support/src/main/main1.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/c3-step-defs/src/main/main2.iml" filepath="/opt/git/phoenix/test/functional-testing/c3-step-defs/src/main/main2.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/desktop-page-objects/src/main/main3.iml" filepath="/opt/git/phoenix/test/functional-testing/desktop-page-objects/src/main/main3.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/bex-page-objects/src/main/main4.iml" filepath="/opt/git/phoenix/test/functional-testing/bex-page-objects/src/main/main4.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/mobile-page-objects/src/main/main5.iml" filepath="/opt/git/phoenix/test/functional-testing/mobile-page-objects/src/main/main5.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/stateless-search-step-defs/src/main/main6.iml" filepath="/opt/git/phoenix/test/functional-testing/stateless-search-step-defs/src/main/main6.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/mobile-api-step-defs/mobile-api-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/mobile-api-step-defs/mobile-api-step-defs.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/mongodb-support/mongodb-support.iml" filepath="/opt/git/phoenix/test/functional-testing/mongodb-support/mongodb-support.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/page-widget-objects/page-widget-objects.iml" filepath="/opt/git/phoenix/test/functional-testing/page-widget-objects/page-widget-objects.iml" />
+      <module fileurl="file:///opt/git/phoenix/phoenix.iml" filepath="/opt/git/phoenix/phoenix.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/stateless-search-step-defs/src/test/test.iml" filepath="/opt/git/phoenix/test/functional-testing/stateless-search-step-defs/src/test/test.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/database-support/src/test/test1.iml" filepath="/opt/git/phoenix/test/functional-testing/database-support/src/test/test1.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/bex-page-objects/src/test/test2.iml" filepath="/opt/git/phoenix/test/functional-testing/bex-page-objects/src/test/test2.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/c3-step-defs/src/test/test3.iml" filepath="/opt/git/phoenix/test/functional-testing/c3-step-defs/src/test/test3.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/mobile-page-objects/src/test/test4.iml" filepath="/opt/git/phoenix/test/functional-testing/mobile-page-objects/src/test/test4.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/c3-page-objects/src/test/test5.iml" filepath="/opt/git/phoenix/test/functional-testing/c3-page-objects/src/test/test5.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/desktop-page-objects/src/test/test6.iml" filepath="/opt/git/phoenix/test/functional-testing/desktop-page-objects/src/test/test6.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/test7.iml" filepath="/opt/git/phoenix/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/xnet-api-1.0-step-defs/xnet-api-1.0-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/xnet-api-1.0-step-defs/xnet-api-1.0-step-defs.iml" />
+      <module fileurl="file:///opt/git/phoenix/test/functional-testing/xnet-api-1.1-step-defs/xnet-api-1.1-step-defs.iml" filepath="/opt/git/phoenix/test/functional-testing/xnet-api-1.1-step-defs/xnet-api-1.1-step-defs.iml" />
+    </modules>
+  </component>
+</project>

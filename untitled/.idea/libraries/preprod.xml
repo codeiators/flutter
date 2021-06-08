@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="preprod">
+    <CLASSES>
+      <root url="jar:///opt/git/phoenix/deploy/preprod/PricingRuleApp.jar!/" />
+      <root url="jar:///opt/git/phoenix/deploy/preprod/TravelTickerScoringProjectRuleApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

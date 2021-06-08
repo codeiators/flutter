@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="truststore-tools">
+    <CLASSES>
+      <root url="jar:///opt/git/phoenix/deploy/keys/truststore-tools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

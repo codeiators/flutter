@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="stage">
+    <CLASSES>
+      <root url="jar:///opt/git/phoenix/deploy/stage/PricingRuleApp.jar!/" />
+      <root url="jar:///opt/git/phoenix/deploy/stage/TravelTickerScoringProjectRuleApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
